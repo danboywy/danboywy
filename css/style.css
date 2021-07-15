@@ -1,0 +1,77 @@
+
+.name{
+    background-image: url("../image/child.jpg");
+    margin:auto;
+}
+.name1 h1{
+    margin-top: 50px;
+    font-size: 50px;
+    text-align: center;
+    
+    font-style: italic;
+    text-transform: uppercase;
+    letter-spacing: 1em;
+    word-spacing: 2em;
+}
+.name1 h2{
+    background-color: aliceblue;
+    margin-top: 80px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.education{
+    background-image:url("../image/uml.jpg");
+    color: #ffcc00;
+}
+.education h1,.education h2,.education h3,.education li{
+    margin-left: 1500px;
+}
+
+.education a {color: #ffcc00;}
+.education a:hover {color:#ff0000;}
+
+.experiencebackground{
+    background-color: white;  
+}
+
+.experience h1{
+    font-family: "Brush Script MT", Brush Script Std, cursive;
+    font-size: 80px;
+    color: rgb(255, 61, 245);
+    text-shadow: 0 0 20px #24e6dc,
+            10px -10px 30px #ffef13;
+    margin-top: 10px;
+    margin-bottom: -10px;
+          
+}
+.workphoto{
+    float: right;
+    margin-top: 200px;
+    margin-right: 300px;
+    
+}
+.experience{
+    margin-top: 30px;
+    margin-left: 300px;
+    width: 1000px;
+    text-align: center;
+    border-top: 10px rgb(250, 11, 11) dotted;
+    border-left: 10px rgb(246, 250, 11) dotted;
+    border-bottom: 10px rgb(11, 250, 23) dotted;
+    border-right: 10px rgb(11, 250, 250) dotted;
+    
+    
+    
+}
+
+.experience h3, .experience h4{
+    margin-top: -20px;
+}
+
+.skill{
+    
+    float:left;
+    margin-left: 1800px;
+    margin-top: -950px;
+}
