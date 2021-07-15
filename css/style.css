@@ -58,14 +58,14 @@
     margin-left: 60%;
 }
 .workphoto{
-    margin-left: 50%;
+    margin-left: 55%;
     margin-top: 20em;
     position: absolute;
 }
 .experience{
     margin-top: 30px;
     float: left;
-    width: 50em;
+    width: 50%;
     text-align: center;
     border-top: 10px rgb(250, 11, 11) dotted;
     border-left: 10px rgb(246, 250, 11) dotted;
