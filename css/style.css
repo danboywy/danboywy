@@ -21,11 +21,17 @@
 }
 
 .education{
-    background-image:url("../image/uml.jpg");
-    color: #ffcc00;
+    position: relative;
 }
-.education h1,.education h2,.education h3,.education li{
-    margin-left: 1500px;
+
+.school{
+    top: 5em;
+    margin-left: 70%;
+    position: absolute;
+    width: 30em;
+    background-color: aliceblue;
+    text-align: center;
+    color: #c3d618;
 }
 
 .education a {color: #ffcc00;}
@@ -45,36 +51,34 @@
     margin-bottom: -10px;
           
 }
+
+.skill{
+    margin-top: -10em;
+    position: absolute;
+    margin-left: 60%;
+}
 .workphoto{
-    float: right;
-    margin-top: 200px;
-    margin-right: 300px;
-    
+    margin-left: 50%;
+    margin-top: 20em;
+    position: absolute;
 }
 .experience{
     margin-top: 30px;
-    margin-left: 300px;
-    width: 1000px;
+    float: left;
+    width: 50em;
     text-align: center;
     border-top: 10px rgb(250, 11, 11) dotted;
     border-left: 10px rgb(246, 250, 11) dotted;
     border-bottom: 10px rgb(11, 250, 23) dotted;
     border-right: 10px rgb(11, 250, 250) dotted;
     
-    
-    
 }
 
 .experience h3, .experience h4{
+    text-align: center;
     margin-top: -20px;
 }
 
-.skill{
-    
-    float:left;
-    margin-left: 1800px;
-    margin-top: -950px;
-}
 
 #contactbutton{
    
@@ -83,3 +87,4 @@
     right: 0;
     bottom: 30%;
 }
+
