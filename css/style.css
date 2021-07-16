@@ -88,7 +88,7 @@
     bottom: 30%;
 }
 
-table, th, td{
+.experience table, .experience th, .experience td{
     background-color: antiquewhite;
     text-align: center;
     margin: auto;
