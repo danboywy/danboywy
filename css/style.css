@@ -88,3 +88,11 @@
     bottom: 30%;
 }
 
+table, th, td{
+    background-color: antiquewhite;
+    text-align: center;
+    margin: auto;
+    width: 600px;
+    border: 1px solid black;
+
+}
