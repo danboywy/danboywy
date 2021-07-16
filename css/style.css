@@ -32,6 +32,7 @@
     background-color: aliceblue;
     text-align: center;
     color: #c3d618;
+    list-style-image: url(../image/list.jpg);
 }
 
 .education a {color: #ffcc00;}
@@ -79,6 +80,11 @@
     margin-top: -20px;
 }
 
+.experience li{
+    list-style-image: url(../image/list.jpg);
+    text-align: left;
+}
+
 
 #contactbutton{
    
@@ -96,3 +102,4 @@
     border: 1px solid black;
 
 }
+
